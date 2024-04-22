@@ -1,4 +1,3 @@
-```markdown
 # Telegram Bot with Google Sheets API Integration
 
 ## Project Description
@@ -39,4 +38,3 @@ This project is not currently under any license.
 
 ## Show your support
 Give a ⭐️ if this project helped you!
-```
